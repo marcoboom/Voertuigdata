@@ -6,7 +6,7 @@ PHP Wrapper for the Voertuigdata.nl SOAP webservice
 First, you'll need to require the package with Composer:
 
 ```bash
-$ composer require marcoboom/google-maps-geocode-api
+$ composer require marcoboom/voertuigdata
 ```
 
 This package requires PHP 5.4 with SOAP installed
