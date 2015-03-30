@@ -1,0 +1,18 @@
+{
+    "name": "marcoboom/voertuigdata",
+    "description": "PHP Wrapper for the Voertuidata.nl SOAP webservice",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Boom",
+            "email": "marco@quest-media.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Voertuigdata\\": "src/Voertuigdata"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
